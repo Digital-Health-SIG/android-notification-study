@@ -12,7 +12,7 @@
     
     
 #### 3. Laden sie die Test App herunter (siehe .apk oben)
-  + erlaube der App in den Einstellungen ihres Gerätes:
+  + erlauben sie der App in den Einstellungen ihres Gerätes:
     + Benachrichtigungen senden
     + Autostart
     
