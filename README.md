@@ -69,4 +69,4 @@ Bei Fragen und Problemen können Sie sich gerne an mich wenden: [**robert.kahry@
   
   
   
-[LAMP App]: https://github.com/Digital-Health-SIG/lamp-android-app
+[LAMP App]: https://github.com/Digital-Health-SIG/android-notification-study/raw/main/LAMP_20220708.apk
