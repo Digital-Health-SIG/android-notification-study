@@ -2,38 +2,35 @@
 
 ## Aufgabe als Studienteilnehmer
 
-#### 1. Schreiben sie eine Email mit **ihrem Namen** an **robert.kahry@uni-ulm.de**, Betreff: **An Studie teilnehmen**
+#### 1. Schreiben Sie eine Email mit **ihrem Namen** an [**robert.kahry@uni-ulm.de**](mailto:robert.kahry@uni-ulm.de?subject=An%20Studie%20teilnehmen), Betreff: **An Studie teilnehmen**
 
 
-#### 2. Laden sie die [LAMP App] herunter. 
-  + klicken sie auf Einstellungen (oben rechts) in der App und erlauben: 
-    + Benachrichtigungen lesen
-    + Autostart
+#### 2. Laden Sie sich die [LAMP App] herunter und installieren Sie letztere
     
     
-#### 3. Laden sie die Glück App herunter (wird noch hochgeladen)
-  + erlauben sie der App in den Einstellungen ihres Gerätes:
+#### 3. Laden Sie die Glück App herunter (wird noch hochgeladen)
+  + erlauben Sie der App in den Einstellungen ihres Gerätes:
     + Benachrichtigungen senden
     + Autostart
     
     
-#### 4. Sobald sie eine Email von **robert.kahry@uni-ulm.de** erhalten können sie sich mit dem in der Email enthaltenen QR-Code in der [LAMP App] für die Studie anmelden.
-  + erlauben sie der App die Berechtigungen die sie verlangt
-  + Die LAMP App brauchen sie für den Rest der Studie nicht zu beachten
+#### 4. Sobald Sie eine Email von **robert.kahry@uni-ulm.de** erhalten können Sie sich mit dem in der Email enthaltenen QR-Code in der [LAMP App] für die Studie anmelden.
+  + erlauben Sie der App die Berechtigungen die Sie verlangt
+  + Die LAMP App brauchen Sie für den Rest der Studie nicht weiter zu beachten
   
   
-#### 5. Öffnen sie die Glück App und drücken sie auf **"Los geht's"**
+#### 5. Öffnen Sie die Glück App und drücken Sie auf **"Los geht's"**
 
 + Sie sind jetzt Studienteilnehmer! Vielen Dank für ihre Teilnahme!
 + Sie erhalten ab jetzt für 14 Tage jeden Tag zu unterschiedlichen Zeiten **eine** Benachrichtigung von der Glück App.
-+ Klicken sie die Benachrichtigungen an und beantworten sie die Fragen , drücken sie danach auf **"Fertig"**.
++ Klicken Sie die Benachrichtigungen an und beantworten Sie die Fragen , drücken Sie danach auf **"Fertig"**.
   + Die Antworten auf die Fragen werden nur lokal in der App gespeichert und niemandem gesendet, die App soll nur eine einfache Mental-Health-App simulieren.
   Sie können auch sofort auf **"Fertig"** klicken ohne die Fragen ehrlich zu beantworten.
-  + Danach können sie die App wieder schließen
+  + Danach können Sie die App wieder schließen
   
-+ nach 15 Tagen können sie die Apps wieder deinstallieren
++ nach 15 Tagen können Sie die Apps wieder deinstallieren
 
-# Motivation der Studie
+# Hintergrund zur Studie
 
 Das Smartphone-Betriebssystem Android besitzt viele Funktionen, 
 um die Batterienutzung des Smartphones zu reduzieren und die Sicherheit und Privatsphäre des Nutzers zu gewährleisten. 
@@ -54,10 +51,10 @@ Viele Smartphone Hersteller fügen mittlerweile auch noch weitere Funktionen hin
 Dies ist für manche Apps natürlich ein großes Problem.
 
 
-Die Glück App sendet täglich eine Benachrichtigung. Klickt man auf diese öffnet sich ein Fragebogen. Der Fragebogen besteht aus 3 Fragen aus dem PHQ-9 Fragebogen der AOK 
+Die Glück App sendet täglich eine Benachrichtigung. Klickt man auf diese öffnet sich ein Fragebogen. Der Fragebogen besteht aus 3 Fragen aus dem PHQ-9 Fragebogen 
 zur Diagnose von Depressionen. Die Glück App soll damit eine Health-App darstellen. Die durchschnittlichen Antworten findet man auf der Statistiken Seite der App. 
-Sie können die Fragen z.B. aus Eigeninteresse ernst beantworten (nehmen sie die Ergebnisse dabei nicht zu ernst), oder auch nicht. 
-Wichtig ist nur, dass sie die Benachrichtigungen anklicken und den Fragebogen beantworten (ob ernst oder nicht ist egal). 
+Sie können die Fragen z.B. aus Eigeninteresse ernst beantworten (nehmen Sie die Ergebnisse dabei nicht zu ernst), oder auch nicht. 
+Wichtig ist nur, dass Sie die Benachrichtigungen anklicken und den Fragebogen beantworten (ob ernst oder nicht ist egal). 
 
 Die LAMP App ist eine App die Informationen über Benachrichtigungen und über das Gerät selbst erfasst. 
 Diese werden an einen Server gesendet um später ausgewertet zu werden.
@@ -65,9 +62,9 @@ In diesem Fall ist die Ankuftszeit der Benachrichtigungen, und ob diese überhau
 Es wird ebenfalls das Gerätemodell, Status der Energiesparfunktion und ein paar weitere Daten erfasst. Es werden dabei keine vertraulichen Nutzerdaten gesammelt. 
 Die Benachrichtigungen der Glück App sind die **einzigen** die von der LAMP App erfasst werden.
 
-Die Studie läuft als Teil einer Bachelorarbeit von mir, Robert Kahry.
+Die Studie läuft als Teil einer Bachelorarbeit von Robert Kahry.
 
-Bei Fragen und Problemen können sie sich gerne an mich wenden: robert.kahry@uni-ulm.de
+Bei Fragen und Problemen können Sie sich gerne an mich wenden: [**robert.kahry@uni-ulm.de**](mailto:robert.kahry@uni-ulm.de?subject=Studie)
   
   
   
