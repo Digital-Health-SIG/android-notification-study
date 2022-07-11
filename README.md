@@ -6,6 +6,7 @@
 
 
 #### 2. Laden Sie sich die [LAMP App] herunter und installieren Sie letztere
+- ein Tutorial zur Installation von APKs finden Sie hier: [https://www.heise.de/tipps-tricks/Externe-Apps-APK-Dateien-bei-Android-installieren-so-klappt-s-3714330.html](https://www.heise.de/tipps-tricks/Externe-Apps-APK-Dateien-bei-Android-installieren-so-klappt-s-3714330.html)
     
     
 #### 3. Laden Sie die Glück App herunter (wird noch hochgeladen)
