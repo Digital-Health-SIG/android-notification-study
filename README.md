@@ -9,7 +9,7 @@
 - ein Tutorial zur Installation von APKs finden Sie hier: [https://www.heise.de/tipps-tricks/Externe-Apps-APK-Dateien-bei-Android-installieren-so-klappt-s-3714330.html](https://www.heise.de/tipps-tricks/Externe-Apps-APK-Dateien-bei-Android-installieren-so-klappt-s-3714330.html)
     
     
-#### 3. Laden Sie die [Glück App] herunter
+#### 3. Laden Sie die [Glück App] herunter (auf manche Geräten wird diese als Happiness App bezeichnet)
   + erlauben Sie der App in den Einstellungen ihres Gerätes:
     + Benachrichtigungen senden
     + Autostart
@@ -20,7 +20,7 @@
   + Die LAMP App brauchen Sie für den Rest der Studie nicht weiter zu beachten
   
   
-#### 5. Öffnen Sie die Glück App und drücken Sie auf **"Los geht's"**
+#### 5. Öffnen Sie die Glück App und drücken Sie auf **"Los geht's"** (auf manche Geräten wird diese als HappinessApp bezeichnet)
 
 + Sie sind jetzt Studienteilnehmer! Vielen Dank für ihre Teilnahme!
 + Sie erhalten ab jetzt für 14 Tage jeden Tag zu unterschiedlichen Zeiten **eine** Benachrichtigung von der Glück App.
